@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/WW_verify_8KMxNgDPRmVWmJ2e.txt",
+      "destination": "/public/WW_verify_8KMxNgDPRmVWmJ2e.txt"
+    }
+  ]
+}
